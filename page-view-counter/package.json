@@ -1,0 +1,15 @@
+{
+  "name": "page-view-counter",
+  "version": "1.0.0",
+  "description": "API to count page views",
+  "main": "api/views.js",
+  "scripts": {
+    "start": "node api/views.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.0"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
